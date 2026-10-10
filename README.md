@@ -6,7 +6,7 @@ An end-to-end e-commerce analytics project built to evaluate business performanc
 
 ## Executive Overview Dashboard
 
-executive-overview.png.png
+[View Executive Overview Dashboard](executive-overview.png)
 
 ## Key Performance Indicators
 - **Total Revenue:** ₹26.0M
